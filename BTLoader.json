@@ -1,0 +1,54 @@
+{
+  "name": "BTLoader",
+  "subtitle": "Discord Tweak",
+  "description": "Unofficial Repo for KettuTweak.",
+  "iconURL": "https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "marketplaceID": "",
+      "developerName": "Discord",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/W5DiDkw.png",
+      "tintColor": "#5464f4",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/cloudysn0w/BTLoader/releases/latest/download/discord.ipa",
+          "size": 100000000,
+          "version": "0.00",
+          "buildVersion": "",
+          "date": "2025-11-22T07:17:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+          "NSLocationAlwaysUsageDescription": "To enable services that require location",
+          "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+          "NSUserTrackingUsageDescription": "Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings.",
+          "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+          "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+          "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+          "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+          "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+          "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+          "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
