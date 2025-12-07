@@ -1,20 +1,18 @@
 {
   "name": "BTLoader",
+  "identifier": "com.btloader.source",
   "subtitle": "Discord Tweak",
   "description": "Unofficial Repo for KettuTweak.",
   "iconURL": "https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg",
-  "website": "",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [],
   "apps": [
     {
       "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
-      "marketplaceID": "",
       "developerName": "Discord",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "Modified Discord build",
+      "localizedDescription": "Unofficial Discord IPA distributed via BTLoader.",
       "iconURL": "https://i.imgur.com/W5DiDkw.png",
       "tintColor": "#5464f4",
       "category": "social",
@@ -23,11 +21,9 @@
         {
           "downloadURL": "https://github.com/cloudysn0w/BTLoader/releases/latest/download/discord.ipa",
           "size": 100000000,
-          "version": "0.00",
-          "buildVersion": "",
-          "date": "2025-11-22T07:17:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
+          "version": "1.00",
+          "buildVersion": "1",
+          "date": "2025-11-22T07:17:00+03:00"
         }
       ],
       "appPermissions": {
@@ -46,8 +42,7 @@
           "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
           "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
